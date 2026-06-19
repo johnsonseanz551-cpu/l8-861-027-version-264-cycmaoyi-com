@@ -1,0 +1,10 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "region_pages": 154,
+  "type_pages": 60,
+  "year_pages": 66,
+  "genre_pages": 80,
+  "hls_sources_extracted_from_uploaded_js": 20,
+  "cover_image_references": "1.jpg - 150.jpg at site root"
+}
